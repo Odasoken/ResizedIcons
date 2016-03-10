@@ -1,2 +1,9 @@
-# ResizedIcons
-shell Script for generate sized Icons for iOS App
+## ResizedIcons
+* Shell Script for generate resized Icons for iOS App
+## Contents
+* Getting Started
+    * 1. Replace the "icon.png" with your icon that matches the size 1024 * 1024
+    * 2. Open your terminal in OS X,use the shell command 'chmod +x' to make the 'ics.sh' executable and execute it.
+
+## More
+   * For customized needs, change the contents of  name_array or  size_array in  ics.sh
