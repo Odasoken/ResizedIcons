@@ -6,4 +6,4 @@
     * 3. use the shell command 'chmod +x' to make the 'ics.sh' executable and execute it.
 
 ## More
-   * For customized needs, change the contents of  name_array or  size_array in  ics.sh. And make sure the 'filename' consistent with name of your icon file.
+   * For customized needs, change the contents of  'name_array' or  'size_array' in  ics.sh. And make sure the 'filename' consistent with      the name of your icon file.
