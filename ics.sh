@@ -9,7 +9,7 @@ size_array=("29" "58" "87" "40" "80" "120" "120" "180" "76" "152" "167")
 mkdir $dirname
 
 for ((i=0;i<${#name_array[@]};++i)); do
-    m_dir=$dirname/${name_array[i]}
-    cp $filename $m_dir
-    sips -Z ${size_array[i]} $m_dir
+    file_path=$dirname/${name_array[i]}
+    cp $filename $file_path
+    sips -Z ${size_array[i]} $file_path
 done
