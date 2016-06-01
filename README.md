@@ -1,4 +1,5 @@
 ## ResizedIcons
+![image](https://github.com/abredo/ResizedIcons/blob/master/ResizeIcon.gif) 
 ===========
 A Shell Script for generating resized icons for uploading iOS App to AppStore
 *  Generating resized icons for uploading iOS App to AppStore, matches  the size like 'Icon-29.png' 'Icon-29@2x.png' 'Icon-29@3x.png' 'Icon-40.png' 'Icon-40@2x.png' 'Icon-40@3x.png' 'Icon-60@2x.png' 'Icon-60@3x.png' 'Icon-76.png' 'Icon-76@2x.png' 'Icon-83.5@2x.png'
