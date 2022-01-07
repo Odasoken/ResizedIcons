@@ -1,7 +1,7 @@
 ## ResizedIcons
 <!-- ![image](https://github.com/abredo/ResizedIcons/blob/master/ResizeIcon.gif)  -->
 
- <img src="https://img2020.cnblogs.com/blog/837089/202201/837089-20220107160437744-920646778.gif" width="30%" height="30%">
+ <img src="https://img2020.cnblogs.com/blog/837089/202201/837089-20220107165535759-1474055722.gif" width="30%" height="30%">
 ===========
 iOS 自动生成对应尺寸图标的脚本，只需要更改脚本里面的尺寸数组和对应的文件名数组，就可以生成对应大小的图标。
 A Shell Script for generating resized icons for uploading iOS App to AppStore
