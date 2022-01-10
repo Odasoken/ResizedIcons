@@ -1,8 +1,4 @@
 ## ResizedIcons
-<!-- ![image](https://github.com/abredo/ResizedIcons/blob/master/ResizeIcon.gif)  -->
-
- <img src="https://img2020.cnblogs.com/blog/837089/202201/837089-20220107165535759-1474055722.gif" width="50%" height="50%">
-<br>
 iOS 自动生成对应尺寸图标的脚本，只需要更改脚本里面的尺寸数组和对应的文件名数组，就可以生成对应大小的图标。
 A Shell Script for generating resized icons for uploading iOS App to AppStore
 *  Generating resized icons for uploading iOS App to AppStore, matches  the size like "Icon-20.png" "Icon-20@2x.png" "Icon-20@3x.png" "Icon-29.png" "Icon-29@2x.png" "Icon-29@3x.png" "Icon-40.png" "Icon-40@2x.png" "Icon-40@3x.png" "Icon-60@2x.png" "Icon-60@3x.png" "Icon-76.png" "Icon-76@2x.png" "Icon-83.5@2x.png"
@@ -36,3 +32,6 @@ echo "******************🌻🌞✅Task finished!🌟🌟🌟🌟🌟***********
 ```
 ## More
 * For customized needs, change the contents of  'name_array' or  'size_array' in  ics.sh. And make sure the 'filename' consistent with      the name of your icon file.
+## Demostration
+ <img src="https://img2020.cnblogs.com/blog/837089/202201/837089-20220107165535759-1474055722.gif" width="50%" height="50%">
+<br>
