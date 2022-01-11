@@ -6,7 +6,17 @@ A Shell Script for generating resized icons for uploading iOS App to AppStore
     * stp1 Replace the "icon.png" with your icon that matches the size 1024 * 1024<br>步骤一、把下载的文件夹中的icon.png，替换成你的图标，名字要是icon.png，最合适尺寸1024 * 1024
      
     * stp2 Open your terminal in OS X, 'cd' into the folder that contains 'icon.png' and 'ics.sh'<br>步骤二、在终端执行 cd 命令切换到icon.png所在目录
+      ```objc
+      cd xxx/xx/ResizedIcons
+      ```
     * stp3 Use the shell command 'chmod +x' to make the 'ics.sh' executable and execute it.<br>步骤三、给脚本添加权限并执行， 'chmod +x ./ics.sh';然后在终端输入'./ics.sh'执行脚本就可以生成所有尺寸的图标。只有第一次使用会需要给脚本添加权限，后续执行脚本不需要再次添加权限。替换新的icon.png，再次执行脚本就可以生成新的对应尺寸图标。
+     ```objc
+     
+      chmod +x ./ics.sh
+      
+      ./ics.sh
+      
+     ```
 
 ## A glimpse of the shell script 脚本预览
 ```objc
